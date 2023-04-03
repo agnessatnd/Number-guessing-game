@@ -6,7 +6,7 @@
 javac NumberGuessingGame.java
 ```
 
-### To run this code type 
+### To run this code 
 
 ```
 java NumberGuessingGame
